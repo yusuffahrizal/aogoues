@@ -1,3 +1,5 @@
+import Onboard from './Onboard';
 import Splash from './Splash';
+import Register from './Register';
 
-export {Splash};
+export {Onboard, Splash, Register};

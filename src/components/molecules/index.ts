@@ -1,3 +1,5 @@
-import TextOnBoard from './TextOnboard';
+import OnBoardCarouselItem from './OnBoardCarouselItem';
+import {OnBoardCarouselItemProps} from './OnBoardCarouselItem';
 
-export {TextOnBoard};
+export {OnBoardCarouselItem};
+export type {OnBoardCarouselItemProps};

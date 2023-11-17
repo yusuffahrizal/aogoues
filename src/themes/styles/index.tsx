@@ -6,4 +6,7 @@ export const GStyles = StyleSheet.create({
     flex: 1,
     backgroundColor: COLOR.BACKGROUND,
   },
+  ph30: {
+    paddingHorizontal: 30,
+  },
 });
